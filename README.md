@@ -3,6 +3,11 @@
 
 
 <!--
+*******QUICK COMMANDS*******
+. venv-yt/Scripts/activate
+pip freeze > requirements.txt
+
+https://developers.google.com/youtube/v3/quickstart/python
 pip install google-api-python-client
 py -m pip install --upgrade google-api-python-client
 
