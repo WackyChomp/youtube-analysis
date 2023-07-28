@@ -66,9 +66,21 @@ pip install pandas
 
 
 ## About The Project
-<p>The future of this repo is
-uncertain. For now, it is all experimental
+<p>The amount of content on YouTube is unfathomable. Every second there's a new video uploaded and cementing itself into YouTube's video sharing plaform. Underneath the visual frontend rubble lies meta data that is overlooked by the majority.
+
+Fortunately for us, the developers at YouTube have an API service which allows us to interact directly with YouTube's data behind the scenes
 </p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## Built With
+Here are the tools used:
+
+* [![python][python]][python-url]
+* [![jupyter][jupyter]][jupyter-url]
+* [![youtube][youtube]][youtube-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,3 +135,16 @@ uncertain. For now, it is all experimental
 ## Title
 ![description goes here](./)
 
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[python]:https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+[python-url]:https://www.python.org/
+
+[jupyter]:https://img.shields.io/badge/Jupyter-20232A?style=for-the-badge&logo=jupyter&logoColor=orange
+[jupyter-url]:https://jupyter.org/
+
+[youtube]:https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+[youtube-url]:https://www.youtube.com/
