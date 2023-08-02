@@ -88,6 +88,40 @@ Here are the tools used:
 
 <br>
 
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Setup is kept at a minimum for immedate usage locally!
+
+### <u>Local Installation</u>
+
+1. Login with your gmail account into "Developer Console" to obtain a free YouTube API Key at --- [https://developers.google.com/youtube/v3/docs](https://developers.google.com/youtube/v3/docs)
+2. Clone the repo:
+   ```sh
+   git clone https://github.com/WackyChomp/youtube-analysis.git
+   ```
+3. Create Python virtual environment in the root directory:
+    ```sh
+    	python -m venv PROJECTNAME
+    ```
+   Activate the virtual environment with
+   ```
+   . PROJECTNAME/Scripts/activate
+   ```
+4. Install all packages from requirements.txt:
+   ```sh
+   pip install -r requirements.txt
+   ```
+5. Create `.env` file and enter your API key:
+   ```
+   YOUTUBE_API_KEY = ENTER YOUR API KEY HERE :)
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## Requirements
 ```
 - 
