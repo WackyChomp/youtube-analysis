@@ -68,7 +68,17 @@ pip install pandas
 ## About The Project
 <p>The amount of content on YouTube is unfathomable. Every second there's a new video uploaded and cementing itself into YouTube's video sharing plaform. Underneath the visual frontend rubble lies meta data that is overlooked by the majority.
 
-Fortunately for us, the developers at YouTube have an API service which allows us to interact directly with YouTube's data behind the scenes
+Fortunately for us, the developers at YouTube have an API service which allows us to interact directly with YouTube's data behind the scenes. 
+
+<br>
+
+<u><b>Project Purpose / Vision:</b></u>
+
+* Analyzing modern trends and content creators by manipulating raw data extracted from YouTube API with <u>Pandas</u> library
+* Prototyping with <u>Jupyter Notebook</u> develop automated analysis
+* Creating data visualizations with <u>Matpotlib</u> and <u>Seaborn</u> to illustrate video and channel statistics
+* Generating word cloud to identify word/phrase frequency of video titles
+* Utilizing Natural Language Processing (NLP) to gauge user sentiment by analyzing user comments
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -103,15 +113,15 @@ Setup is kept at a minimum for immedate usage locally!
    git clone https://github.com/WackyChomp/youtube-analysis.git
    ```
 3. Create Python virtual environment in the root directory:
-    ```sh
-    	python -m venv PROJECTNAME
+    ```
+    python -m venv PROJECTNAME
     ```
    Activate the virtual environment with
    ```
    . PROJECTNAME/Scripts/activate
    ```
 4. Install all packages from requirements.txt:
-   ```sh
+   ```
    pip install -r requirements.txt
    ```
 5. Create `.env` file and enter your API key:
