@@ -95,7 +95,7 @@ Here are the tools used:
 
 Setup is kept at a minimum for immedate usage locally!
 
-### <u>Local Installation</u>
+### <u>Installation</u>
 
 1. Login with your gmail account into "Developer Console" to obtain a free YouTube API Key at --- [https://developers.google.com/youtube/v3/docs](https://developers.google.com/youtube/v3/docs)
 2. Clone the repo:
@@ -168,6 +168,24 @@ Setup is kept at a minimum for immedate usage locally!
 
 ## Title
 ![description goes here](./)
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+List of helpful resources for inspiration and point you into a direction!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* [Python](https://www.python.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [YouTube API Docs](https://developers.google.com/youtube/v3/docs)
+<!--* []() -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
