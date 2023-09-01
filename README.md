@@ -114,11 +114,11 @@ Setup is kept at a minimum for immedate usage locally!
    ```
 3. Create Python virtual environment in the root directory:
     ```
-    python -m venv PROJECTNAME
+    python -m venv INSERT_PROJECT_NAME
     ```
-   Activate the virtual environment with
+   Activate the virtual environment with:
    ```
-   . PROJECTNAME/Scripts/activate
+   . INSERT_PROJECT_NAME/Scripts/activate
    ```
 4. Install all packages from requirements.txt:
    ```
@@ -131,14 +131,6 @@ Setup is kept at a minimum for immedate usage locally!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## Requirements
-```
-- 
-- 
-- 
-- 
-```
 
 <br>
 
@@ -166,10 +158,15 @@ Setup is kept at a minimum for immedate usage locally!
 <br>
 
 ## Tasks / Goal Posts
-- [] 
-- [] 
-- [] 
-- [] 
+- [X] Created prototype to scrape video statistics of one channel
+- [] Created prototype to scrape video statistics of multiple channels
+- [X] Created dataframe with YouTube API
+- [X] Created data visualizations
+  - [X] Bar Graph
+  - [X] Word Cloud
+  - [] Etc.
+- [] Automate process
+- [] Finalize README.md
 
 <br>
 
