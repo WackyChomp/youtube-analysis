@@ -95,9 +95,7 @@ Here are the tools used:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <br>
-
 
 
 <!-- GETTING STARTED -->
@@ -105,7 +103,7 @@ Here are the tools used:
 
 Setup is kept at a minimum for immedate usage locally!
 
-### <u>Installation</u>
+### Installation
 
 1. Login with your gmail account into "Developer Console" to obtain a free YouTube API Key at --- [https://developers.google.com/youtube/v3/docs](https://developers.google.com/youtube/v3/docs)
 2. Clone the repo:
@@ -134,32 +132,13 @@ Setup is kept at a minimum for immedate usage locally!
 
 <br>
 
-## Getting started w/ Visual Studio Code
-```
-** git clone <insert_repo>
 
-** 
-
-** 
-
-** 
-
-** 
-
-** 
-
-** 
-```
-
-<br>
-
-## Something
 
 <br>
 
 ## Tasks / Goal Posts
 - [X] Created prototype to scrape video statistics of one channel
-- [] Created prototype to scrape video statistics of multiple channels
+- [x] Created prototype to scrape video statistics of multiple channels
 - [X] Created dataframe with YouTube API
 - [X] Created data visualizations
   - [X] Bar Graph
@@ -186,6 +165,7 @@ List of helpful resources for inspiration and point you into a direction!
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
+<br><br>
 * [Python](https://www.python.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [Seaborn](https://seaborn.pydata.org/)
